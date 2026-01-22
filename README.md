@@ -32,6 +32,26 @@ In conclusion, Task 3 successfully demonstrated the process of migrating data fr
 
 *OUTPUTS:*
 
+*From Source : MySql*
+
+1.Displays all company records inserted into the companies table in the MySQL source database.
+<img width="1403" height="852" alt="Image" src="https://github.com/user-attachments/assets/288ce253-8fa7-49ef-8700-e2f877f1ae6d" />
+
+2.Shows all job posting records stored in the job_postings table in the MySQL database.
+<img width="1522" height="801" alt="Image" src="https://github.com/user-attachments/assets/d5d2aded-f088-4511-add9-95c3370393ee" />
+
+3.Verifies the total number of records present in the companies table using a COUNT query in MySQL.
+<img width="1043" height="483" alt="Image" src="https://github.com/user-attachments/assets/7ee6c643-c102-4d5a-a778-acd2bd5eac55" />
+
+4.Confirms the total number of job postings available in the job_postings table using a COUNT query.
+<img width="1085" height="458" alt="Image" src="https://github.com/user-attachments/assets/7c83331a-297d-4245-b3bf-8b21e7693fc5" />
+
+5.Displays company names and job titles using a JOIN operation ordered by company ID for structured output.
+<img width="895" height="830" alt="Image" src="https://github.com/user-attachments/assets/5e4b321e-7e37-49ca-a35d-985baf15fb56" />
+
+
+*To Destination : Postgresql*
+
 1.Displays all records from the companies table after successful insertion into PostgreSQL.
 <img width="1871" height="874" alt="Image" src="https://github.com/user-attachments/assets/c931aeca-e5ff-4700-901e-0cb6026c0787" />
 
